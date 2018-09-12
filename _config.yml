@@ -3,13 +3,12 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Alex Morris
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
-
+description: Lesson Blogs
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://png2.kisspng.com/sh/fdcd4e27f01a7f884f15ce6f4ed71503/L0KzQYm3VMA6N5N6iZH0aYP2gLBuTfF3aaVmip9sb3zygn7qjPlxNZJ3jJ9waHB2hH68gfNjOWo6S6MBZULkQXABUsI6PGI1T6MAMkO1RYqAU8ExQWQ9RuJ3Zx==/kisspng-avatar-color-clip-art-ghost-5acb195316e2a1.8229410715232597310938.png
 
 #
 # Flags below are optional
